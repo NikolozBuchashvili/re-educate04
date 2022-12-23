@@ -1,0 +1,13 @@
+header{
+    background-color: green;
+}
+li{
+    size: 18px;
+    color: greenyellow;
+    font-weight: 800;
+}
+p{
+    background-color: greenyellow;
+    size: 16px;
+    letter-spacing: 2px;
+}
